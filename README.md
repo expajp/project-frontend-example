@@ -1,3 +1,8 @@
+[フロントエンドの知識地図](https://direct.gihyo.jp/view/item/000000003217) のハンズオン用リポジトリです。
+
+以下元リポジトリのREADME
+
+---
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
